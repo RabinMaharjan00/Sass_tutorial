@@ -1,0 +1,22 @@
+$primary-color:rgb(47, 40, 112);
+
+nav{
+    ul{
+        margin: 0;
+        padding: 0;
+        list-style: none;
+        li{
+            display: flex;
+            flex-direction: row;
+            justify-content: center;
+            text-decoration:none;
+            color: $primary-color;
+            a:hover{
+                $prmay:rgb(255, 6, 201);
+                color: $prmay;
+            
+            }
+        }
+        
+    }
+}
