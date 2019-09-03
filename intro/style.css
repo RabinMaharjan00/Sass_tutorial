@@ -1,0 +1,25 @@
+body {
+  font: 100% Helvetica, sans-serif;
+  color: #333;
+}
+
+h1 {
+  color: #FF0034;
+}
+
+p {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  color: #FF00EE;
+}
+
+button {
+  color: #52a7ac;
+  border-radius: 4px;
+  width: 20vh;
+}
+/*# sourceMappingURL=style.css.map */
