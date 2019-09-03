@@ -1,0 +1,19 @@
+button {
+  font-size: 20px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-line-pack: center;
+      align-content: center;
+}
+
+.container {
+  margin-left: 100px;
+  border-color: aqua;
+}
+
+.container-fluid .head {
+  font-size: 40px;
+  margin-left: 20px;
+}
+/*# sourceMappingURL=style.css.map */
